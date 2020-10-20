@@ -1,0 +1,14 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-subtitle {
+  display: inline-block;
+  font-size: 1rem;
+  color: #c3c2c2;
+  margin: 10px 0 0 0px;
+
+  @media screen and (max-width: $on-palm) {
+    margin: 10px 0 10px 0px;
+  }
+}
+
