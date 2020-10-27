@@ -21,7 +21,7 @@
 title: Dotlinesqr
 email: tancredidigiovanni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "developer_portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/developer_portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
