@@ -4,5 +4,5 @@ title: Skills
 permalink: /skills/
 order: 2
 ---
-
-<iframe src="https://tancre.github.io/skills_graph/" style="width: 100%; height: 500px;"></iframe>
+asdasdasd
+<!-- <iframe src="https://tancre.github.io/skills_graph/" style="width: 100%; height: 500px;"></iframe> -->
